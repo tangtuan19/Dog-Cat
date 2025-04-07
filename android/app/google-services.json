@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251662974813",
+    "project_id": "dogandcat-d9382",
+    "storage_bucket": "dogandcat-d9382.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251662974813:android:d26951f8fc7fd1b503b2b4",
+        "android_client_info": {
+          "package_name": "com.example.cat_dog_classifier"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlUeN2Mo7vxdXPgDFiI1Y16dWw3hnINJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
